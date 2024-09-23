@@ -1,4 +1,4 @@
-// E7.1-Custo final de um carro
+// 7.1-Custo final de um carro
 // 30/8/2024
 #include <stdio.h>
 

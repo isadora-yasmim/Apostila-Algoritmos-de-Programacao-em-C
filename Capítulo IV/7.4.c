@@ -1,4 +1,4 @@
-// E7.4-Valor em notas e moedas
+// 7.4-Valor em notas e moedas
 /*30/8/24*/
 #include <stdio.h>
 

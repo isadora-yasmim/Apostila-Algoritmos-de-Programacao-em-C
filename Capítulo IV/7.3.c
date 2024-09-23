@@ -1,4 +1,4 @@
-// E7.3-Numero invertido
+// 7.3-Numero invertido
 // 30/8/2024
 #include <stdio.h>
 #include <math.h>

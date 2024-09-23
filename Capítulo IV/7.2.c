@@ -1,4 +1,4 @@
-// E7.2-Distância entre dois pontos
+// 7.2-Distância entre dois pontos
 #include <stdio.h>
 #include <math.h>
 
